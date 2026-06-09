@@ -1,0 +1,12 @@
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/bin/Debug/net10.0/MinMod.deps.json
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/bin/Debug/net10.0/MinMod.dll
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/bin/Debug/net10.0/MinMod.pdb
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.AssemblyInfoInputs.cache
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.AssemblyInfo.cs
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.csproj.CoreCompileInputs.cache
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.sourcelink.json
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.dll
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/refint/MinMod.dll
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/MinMod.pdb
+/workspaces/sons-of-the-forest-smart-kelvin/MinMod/obj/Debug/net10.0/ref/MinMod.dll
